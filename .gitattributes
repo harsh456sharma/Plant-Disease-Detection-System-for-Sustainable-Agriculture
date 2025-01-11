@@ -1,0 +1,3 @@
+*.ipynb text eol=lf
+# Ensure README.md uses LF line endings
+README.md text eol=lf
